@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Projeto Android</string>
+    <string name="locais">Os Meus Locais</string>
+    <string name="data">Data de Nascimento</string>
+    <string name="criador">Criador</string>
+    <string name="texto">Introduz a Tua Data de Nascimento</string>
+
+    <string name="nome">
+        <![CDATA[
+        <h1>Nome:</h1>
+        <h3>Rodrigo Santos</h3>
+        ]]>
+    </string>
+
+    <string name="telefone">
+        <![CDATA[
+        <h1>Telefone:</h1>
+        <h3>914 347 964</h3>
+        ]]>
+    </string>
+
+    <string name="local">
+        <![CDATA[
+        <h1>Local:</h1>
+        <h3>Pinhal Novo</h3>
+        ]]>
+    </string>
+
+    <string name="guardarlocal">Guardar Local</string>
+    <string name="guardardata">Guardar Data de Nascimento</string>
+    <string name="title_activity_mapa">Map</string>
+
+</resources>
